@@ -169,11 +169,12 @@ header {
   justify-content: space-around;
   align-items: center;
   color: white;
-  background-image: url(../img/count/Rectangle26.svg);
+  background-image: url(../images/home-page/count/Rectangle26.svg);
   background-repeat: no-repeat;
   font-family: "Libre Bodoni";
   font-weight: bold;
   margin-top: 150px;
+  margin-left: 45px;
   padding: 60px;
 }
 
@@ -340,7 +341,7 @@ header {
 .lunch {
   width: 45%;
   grid-row: 2 / 2;
-  background-image: url(../img/deals/Rectangle\ 27.svg);
+  background-image: url(../images/home-page/deals/Rectangle\ 27.svg);
   background-repeat: no-repeat;
   background-size: cover;
   border: 2px solid black;
@@ -566,7 +567,7 @@ header {
   height: auto;
   margin: 0 auto;
   color: #fff;
-  background-image: url(../img/email/Rectangle\ 26.svg);
+  background-image: url(../images/home-page/email/Rectangle\ 26.svg);
   background-repeat: no-repeat;
 }
 
