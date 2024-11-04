@@ -123,6 +123,7 @@
     font-family: "Plus Jakarta Sans", sans-serif;
     font-weight: 500;
     font-size: 20px;
+    margin-left: 150px;
   }
   
   .more ul {
@@ -379,6 +380,10 @@
 
   .newsletter {
     display: none;
+  }
+
+  .more p{
+    margin-left: 55px;
   }
 }
 
